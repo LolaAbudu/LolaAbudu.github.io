@@ -1,0 +1,33 @@
+.headerbanner{
+	background-image: url(http://ak2.picdn.net/shutterstock/videos/12864692/thumb/1.jpg);
+}
+.header{
+	background-image: url(https://thumbs.dreamstime.com/b/incandescent-lamp-lying-table-gray-gradient-background-reflection-89158500.jpg); width: 1110px; height: 600px; background-size: cover; background-position: center; margin: o;
+}
+.h1{
+	font-size: 40px; color: black; text-align: right; margin: 0;
+}
+.div{
+	 font-size: 35px; text-align: center; margin: 0 auto; color: white;
+}
+img{
+	width: 100%; height: 400px;
+}
+.indexback{
+	background-image: url(http://www.jcpportraits.com/sites/jcpportraits.com/files/styles/portrait_background/public/background/1709/wood.jpg?itok=kNQZ0LDo);
+}
+.aboutme{
+	font-size: 40px;
+}
+.aboutme2{
+	background-image: url(https://photy.org/photos/background-gray.jpg); font-size: 40px;
+}
+.projects{
+	font-size: 18px;
+}
+.procjectsback{
+	background-color: #3BA1B1;
+}
+.contacts{
+	color: black; text-align: center; 
+}
